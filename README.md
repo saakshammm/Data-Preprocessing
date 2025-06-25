@@ -9,8 +9,8 @@ This project is part of my machine learning journey. It involves cleaning, prepr
 | File Name              | Description                                       |
 |------------------------|---------------------------------------------------|
 | `Titanic-Dataset.csv`  | Original raw dataset                              |
-| `cleaned_data.csv`     | Dataset after dropping unnecessary columns and filling out the missing values  |
 | `Cleaning.ipynb`       | Notebook for data cleaning and basic inspection   |
+| `cleaned_data.csv`     | Dataset after dropping unnecessary columns and filling out the missing values  |
 | `Pre-processing.ipynb` | Notebook for preprocessing: imputation, encoding, scaling, outlier removal |
 | `preprocessed_data.csv`     | Dataset after preprocessing  |
 
