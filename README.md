@@ -12,6 +12,7 @@ This project is part of my machine learning journey. It involves cleaning, prepr
 | `cleaned_data.csv`     | Dataset after dropping unnecessary columns and filling out the missing values  |
 | `Cleaning.ipynb`       | Notebook for data cleaning and basic inspection   |
 | `Pre-processing.ipynb` | Notebook for preprocessing: imputation, encoding, scaling, outlier removal |
+| `preprocessed_data.csv`     | Dataset after preprocessing  |
 
 ---
 
